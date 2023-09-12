@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460033251934",
+    "project_id": "address-app-7e0b2",
+    "storage_bucket": "address-app-7e0b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460033251934:android:384f636757d451489232cf",
+        "android_client_info": {
+          "package_name": "com.software.onlineAddress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460033251934-verf8rkh4a6q19sl68jlgrdlcah25tqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_kjREGdTZOLXAAkEqyUqS8vw0SbjlZSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460033251934-verf8rkh4a6q19sl68jlgrdlcah25tqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
